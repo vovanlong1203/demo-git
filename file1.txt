@@ -2,3 +2,5 @@ file 1 master
 chỉnh sửa file1 nhánh new_branch1 
 chinh sua file1 nhánh master
 chinh sua 1 master
+chỉnh sửa lần 2
+chinh sua11 new_branch1
